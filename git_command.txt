@@ -1,0 +1,12 @@
+처음 만들 때
+git clone https://github.com/KimSunWOO123/Python_study.git
+
+올릴 때
+git status
+git add .
+git commit -m "하고싶은말"
+git push
+
+받을 때
+git fetch
+git pull
